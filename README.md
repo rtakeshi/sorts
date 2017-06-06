@@ -1,6 +1,6 @@
 # C++ Sorts
 
-Experimento realizado na Disciplina CAP-241 Computaço Aplicada do programa de Pós Graduação em Computaçao Aplicada do Instituto Nacional de Pesquisas Espaciais (INPE)
+Experimento realizado na Disciplina CAP-241 Computação Aplicada do programa de Pós Graduação em Computaçao Aplicada do Instituto Nacional de Pesquisas Espaciais (INPE)
 
 
 Neste experimento são realizadas comparações entre diversos algoritmos de ordenação:
